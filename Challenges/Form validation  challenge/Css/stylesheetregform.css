@@ -1,0 +1,133 @@
+h1{
+
+    font-size:50px
+}
+
+.alias{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.password{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.name{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.address{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center
+}
+
+
+.selection{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.zip{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.mail{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+
+}
+
+.seex{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+   
+}
+
+#sex{
+    
+    display:block;
+    margin:0 auto;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.language{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.textbox{
+
+    display:block;
+    padding:10px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.sub{
+    padding:10px;
+    text-align:center;
+}
+
+#ass{
+
+    width:2000px
+}
+#male{
+
+    position:absolute;
+    right:680px;
+    top:680px
+    
+}
+
+#female{
+
+    position:absolute;
+    right:680px;
+    top:699px;
+}
+#english{
+
+    position:absolute;
+    right:680px;
+    top:745px;
+}
+
+#non_english{
+
+    position:absolute;
+    right:680px;
+    top:760px;
+}
